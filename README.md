@@ -16,9 +16,6 @@
 
 <!-- event starts -->
 * *starred* <a href=https://github.com/tgbot-collection/YYeTsBot target='_blank'>tgbot-collection/YYeTsBot</a> - 2021-06-07
-* *issuecommentd* <a href=https://github.com/jmaczan/basic-vue-chat target='_blank'>jmaczan/basic-vue-chat</a> - 2021-05-16
-* *starred* <a href=https://github.com/medcl/elasticsearch-analysis-ik target='_blank'>medcl/elasticsearch-analysis-ik</a> - 2021-05-16
-* *starred* <a href=https://github.com/robrua/easy-bert target='_blank'>robrua/easy-bert</a> - 2021-05-16
 <!-- event ends -->
 </td>
 <td valign="top" width="500 px">
@@ -39,7 +36,7 @@
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2021-08-17 08:51:07
+Automatically updated on 2021-08-18 08:52:38
 <!-- time ends -->
 </i>
 </p>
